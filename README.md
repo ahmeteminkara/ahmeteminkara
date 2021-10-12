@@ -1,6 +1,8 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ahmet Emin KARA</h2>
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ahmeteminkara&show_icons=true&cache_seconds=86400) 
+
 
 <!--
 **ahmeteminkara/ahmeteminkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
