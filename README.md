@@ -3,6 +3,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmeteminkara&show_icons=true&cache_seconds=86400) 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeteminkara&show_icons=true&locale=en&layout=compact" alt="ahmeteminkara" /></p>
+
 
 <!--
 **ahmeteminkara/ahmeteminkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
