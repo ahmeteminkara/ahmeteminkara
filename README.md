@@ -1,8 +1,10 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ahmet Emin KARA</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeteminkara&show_icons=true&locale=en&layout=compact" alt="ahmeteminkara" /></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ahmeteminkara&show_icons=true&cache_seconds=86400) 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeteminkara&show_icons=true&locale=en&layout=compact" alt="ahmeteminkara" /></p>
 
 
 ![](https://komarev.com/ghpvc/?username=ahmeteminkara&color=000000&style=for-the-badge&label=VIEWS)
