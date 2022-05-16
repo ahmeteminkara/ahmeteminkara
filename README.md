@@ -6,6 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeteminkara&show_icons=true&locale=en&layout=compact" alt="ahmeteminkara" /></p>
 
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=ahmeteminkara&color=000000&style=for-the-badge&label=VIEWS)
 [![Linkedin Badge](https://img.shields.io/badge/ahmeteminkara-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmeteminkara/)
