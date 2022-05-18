@@ -1,11 +1,9 @@
 # Hi, I am Ahmet Emin KARA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ahmeteminkara&show_icons=true&cache_seconds=86400) 
+[![Ahmet Emin Kara's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&username=ahmeteminkara&theme=github_dark)](https://github.com/ahmeteminkara)
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahmeteminkara&show_icons=true&locale=en&layout=compact) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeteminkara&layout=compact&theme=github_dark&exclude_repo=android,ios,flutter)](https://github.com/ahmeteminkara)
 
 ![](https://komarev.com/ghpvc/?username=ahmeteminkara&color=000000&style=for-the-badge&label=VIEWS)
 [![Linkedin Badge](https://img.shields.io/badge/ahmeteminkara-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmeteminkara/)
