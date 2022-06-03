@@ -1,4 +1,4 @@
-# Hi, I am Ahmet Emin KARA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+# Hi, I am Ahmet Emin KARA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 
 [![Ahmet Emin Kara's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&show_icons=true&username=ahmeteminkara&theme=github_dark)](https://github.com/ahmeteminkara)
